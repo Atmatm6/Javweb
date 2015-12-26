@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="apache-log4j-2.5-src">
+    <CLASSES>
+      <root url="file://E:/apache-log4j-2.5-bin/apache-log4j-2.5-bin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://E:/apache-log4j-2.5-bin/apache-log4j-2.5-bin" />
+    </SOURCES>
+    <jarDirectory url="file://E:/apache-log4j-2.5-bin/apache-log4j-2.5-bin" recursive="false" />
+    <jarDirectory url="file://E:/apache-log4j-2.5-bin/apache-log4j-2.5-bin" recursive="false" type="SOURCES" />
+  </library>
+</component>
