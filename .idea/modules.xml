@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../Emtop/Emtop.iml" filepath="$PROJECT_DIR$/../Emtop/Emtop.iml" />
       <module fileurl="file://$PROJECT_DIR$/Javweb.iml" filepath="$PROJECT_DIR$/Javweb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../Pinch/Pinch.iml" filepath="$PROJECT_DIR$/../Pinch/Pinch.iml" />
     </modules>
   </component>
 </project>
